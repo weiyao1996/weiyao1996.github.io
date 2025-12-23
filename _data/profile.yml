@@ -22,17 +22,23 @@ linkedin: yao-wei-1062471ab
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I received the PhD at <a href="https://www.itc.nl/" target="_blank">ITC</a>, <a href="https://www.utwente.nl/" target="_blank">University of Twente</a>, 
+    supervised by <a href="https://research.utwente.nl/en/persons/george-vosselman" target="_blank">Prof. George Vosselman</a> and <a href="https://sites.google.com/site/michaelyingyang" target="_blank">Prof. Michael Yang</a>. 
+    My doctoral research interests include generative models, multimodal learning, and 3D scene synthesis.
+    Prior to this, I received the M.S. degree in photogrammetry and remote sensing from <a href="http://en.whu.edu.cn/" target="_blank">Wuhan University</a> 
+    where I worked on road extraction from aerial and satellite images using deep learning techniques (<a href="/_publications/Master_Thesis_Yao_Wei_2021.pdf">Master Thesis</a>), advised by <a href="http://gpcv.whu.edu.cn/" target="_blank">Prof. Shunping Ji</a>.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    In addition, I worked as an Applied Scientist Intern at <a href="https://aws.amazon.com/" target="_blank">Amazon Web Services (AWS) </a> AI labs, USA. 
+    Before that, I visited <a href="https://iit.it/" target="_blank">Italian Institute of Technology (IIT)</a>, Italy, working with researchers of the Pattern Analysis and Computer Vision (PAVIS) headed by <a href="https://www.iit.it/people/alessio-delbue" target="_blank">Dr. Alessio Del Bue</a>.
+  </p>
+  <p>
+    If you are interested in my research or have any use cases that you would like to collaborate on, feel free to contact me!
   </p>
 
 portrait_url: /assets/images/photos/portrait_ywei.jpg
 portrait_caption: >-
-   Photo by .
+   Photo near Tower Bridge in London.
 
 education:
 - name: University of Twente
