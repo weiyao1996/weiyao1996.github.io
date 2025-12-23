@@ -30,33 +30,43 @@ short_bio: >-
     as well as being common in domestic longhair and domestic shorthair cats.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/portrait_ywei.jpg
 portrait_caption: >-
-  # Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+   Photo by .
 
 education:
 - name: University of Twente
   logo: /assets/images/badges/UT.png
   position: >- 
-    ITC <br/>
-    Ph.D. Student
-  date: Sep. 2021 - Aug. 2024
+    Faculty of Geo-Information Science and Earth Observation (ITC) <br/>
+    Ph.D. in Computer Science
+  date: September 2021 - August 2025
 - name: Wuhan University
   logo: /assets/images/badges/WHU.png
   position: >- 
     Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
+    M.S. in 
+  date: September 2018 - June 2021
+- name: China University of Petroleum
   logo: /assets/images/badges/UPC.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  position: B.S. in 
+  date: September 2014 - June 2018
 
 experience:
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: Research Intern
-  date: Sep. 2019 - Jul. 2021
+- name: University of Bath
+  logo: /assets/images/badges/UoB.png
+  position: Visiting Scholar
+  date: September 2025 - December 2025
+
+- name: Amazon Web Services (AWS) AI labs
+  logo: /assets/images/badges/AWS.png
+  position: Applied Scientist Intern
+  date: January 2025 - April 2025
+
+- name: Italian Institute of Technology (IIT)
+  logo: /assets/images/badges/IIT.png
+  position: Applied Scientist Intern
+  date: July 2024 - December 2025
 
 # awards:
 # - name: Award Name 2
