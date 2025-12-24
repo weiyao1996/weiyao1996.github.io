@@ -58,11 +58,11 @@ education:
   position: B.S. in 
   date: September 2014 - June 2018
 
-# experience:
-# - name: University of Bath
-#   logo: /assets/images/badges/UoB.png
-#   position: Visiting Scholar
-#   date: September 2025 - December 2025
+experience:
+- name: University of Bath
+  logo: /assets/images/badges/UoB.png
+  position: Visiting Scholar
+  date: September 2025 - December 2025
 
 # - name: Amazon Web Services (AWS) AI labs
 #   logo: /assets/images/badges/AWS.png
