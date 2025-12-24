@@ -22,7 +22,7 @@ linkedin: yao-wei-1062471ab
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I received the PhD at <a href="https://www.itc.nl/" target="_blank">ITC</a>, <a href="https://www.utwente.nl/" target="_blank">University of Twente</a>, 
+    I received the PhD at the Faculty of Geo-Information Science and Earth Observation (<a href="https://www.itc.nl/" target="_blank">ITC</a>), <a href="https://www.utwente.nl/" target="_blank">University of Twente</a>, 
     supervised by <a href="https://research.utwente.nl/en/persons/george-vosselman" target="_blank">Prof. George Vosselman</a> and <a href="https://sites.google.com/site/michaelyingyang" target="_blank">Prof. Michael Yang</a>. 
     During my doctoral study, I worked as an Applied Scientist Intern at <a href="https://aws.amazon.com/" target="_blank">Amazon Web Services (AWS) </a> AI labs, USA. 
     Before that, I visited <a href="https://iit.it/" target="_blank">Italian Institute of Technology (IIT)</a>, Italy, working with researchers of the Pattern Analysis and Computer Vision (PAVIS) headed by <a href="https://www.iit.it/people/alessio-delbue" target="_blank">Dr. Alessio Del Bue</a>.
@@ -43,19 +43,15 @@ portrait_caption: >-
 education:
 - name: University of Twente
   logo: /assets/images/badges/UT-ITC-logo-RGB.png
-  position: >- 
-    Faculty of Geo-Information Science and Earth Observation (ITC) <br/>
-    Ph.D. in Computer Science
+  position: Ph.D. in Computer Science
   date: September 2021 - August 2025
 - name: Wuhan University
   logo: /assets/images/badges/WHU.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    M.S. in 
+  position: M.S. in Photogrammetry and Remote Sensing
   date: September 2018 - June 2021
 - name: China University of Petroleum
   logo: /assets/images/badges/UPC.png
-  position: B.S. in 
+  position: B.S. in Geographic Information Science
   date: September 2014 - June 2018
 
 experience:
