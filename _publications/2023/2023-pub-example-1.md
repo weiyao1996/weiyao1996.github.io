@@ -1,17 +1,16 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
-date:           2023-01-05 00:01:00 +0800
+title:          "Scribble-based Weakly Supervised Deep Learning for Road Surface Extraction from Remote Sensing Images"
+date:           2021-02-18 00:01:00 +0800
 selected:       true
-pub:            "Nature Communications"
-pub_date:       "2023"
+pub:            "IEEE Transactions on Geoscience and Remote Sensing (TGRS)"
+pub_date:       "2021"
 abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
-cover:          /assets/images/covers/cover1.jpg
+  We propose a scribble-based weakly supervised road surface extraction method named ScRoadExtractor, which learns from easily accessible scribbles such as centerlines instead of densely annotated road surface ground truths. The results demonstrate that ScRoadExtractor exceeds the classic scribble-supervised segmentation method by 20% for the intersection over union (IoU) indicator and outperforms the state-of-the-art scribble-based weakly supervised methods at least 4%.
+cover:          /assets/images/covers/tgrs2021.png
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+- Yao Wei
+- Shunping Ji
 links:
-  Paper: https://www.cell.com
+  Paper: https://ieeexplore.ieee.org/document/9372390
+  Code: https://github.com/weiyao1996/ScRoadExtractor
 ---
