@@ -54,16 +54,18 @@ education:
   date: September 2014 - June 2018
 
 experience:
+- name: Queen Mary University of London
+  logo: /assets/images/badges/QMUL.png
+  position: Postdoctoral Research Associate
+  date: January 2026 - present
 - name: University of Bath
   logo: /assets/images/badges/UoB.png
   position: Visiting Scholar
   date: September 2025 - December 2025
-
 - name: Amazon Web Services (AWS)
   logo: /assets/images/badges/AWS.png
   position: Applied Scientist Intern
   date: January 2025 - April 2025
-
 - name: Italian Institute of Technology (IIT)
   logo: /assets/images/badges/IIT.png
   position: Visiting Scientist
