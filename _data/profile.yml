@@ -3,8 +3,8 @@ secondary_name: ""
 navbar_name: "Y. Wei"
 
 positions:
-- name: Postdoctoral Research Associate
-- name: Queen Mary University of London
+- name: Postdoctoral Research Associate, QMUL
+- name: Mile End Road, London E1 4NS, UK
   logo: /assets/images/badges/QMUL.png  # Logo is optional
 
 
@@ -12,7 +12,7 @@ email: "weicc1996@gmail.com"
 # cv_link: link-to-your-cv-file
 gscholar: NYYC2JwAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: weiyao1996
-# twitter: your_twitter_id  # Do not include the '@' symbol
+twitter: Cecilia_Yao_WEI  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -66,7 +66,7 @@ experience:
 
 - name: Italian Institute of Technology (IIT)
   logo: /assets/images/badges/IIT.png
-  position: Visiting PhD Student
+  position: Visiting Scientist
   date: July 2024 - December 2024
 
 # awards:
