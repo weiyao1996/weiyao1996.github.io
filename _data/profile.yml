@@ -47,16 +47,16 @@ education:
     Faculty of Geo-Information Science and Earth Observation (ITC) <br/>
     Ph.D. in Computer Science
   date: September 2021 - August 2025
-# - name: Wuhan University
-#   logo: /assets/images/badges/WHU.png
-#   position: >- 
-#     Department of Electrical Engineering and Computer Science <br/>
-#     M.S. in 
-#   date: September 2018 - June 2021
-# - name: China University of Petroleum
-#   logo: /assets/images/badges/UPC.png
-#   position: B.S. in 
-#   date: September 2014 - June 2018
+- name: Wuhan University
+  logo: /assets/images/badges/WHU.png
+  position: >- 
+    Department of Electrical Engineering and Computer Science <br/>
+    M.S. in 
+  date: September 2018 - June 2021
+- name: China University of Petroleum
+  logo: /assets/images/badges/UPC.png
+  position: B.S. in 
+  date: September 2014 - June 2018
 
 # experience:
 # - name: University of Bath
