@@ -1,6 +1,6 @@
 ---
-title:          "Convallis a cras semper auctor neque vitae rutrum quisque non tellus orci ac"
-date:           2024-05-12 00:01:00 +0800
+title:          "Planner3D: LLM-enhanced Graph Prior Meets 3D Indoor Scene Explicit Regularization"
+date:           2025-08-17 00:01:00 +0800
 selected:       true
 pub:            "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)"
 # pub_pre:        "Submitted to "
