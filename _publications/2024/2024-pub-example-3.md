@@ -2,21 +2,21 @@
 title:          "Convallis a cras semper auctor neque vitae rutrum quisque non tellus orci ac"
 date:           2024-05-12 00:01:00 +0800
 selected:       true
-pub:            "International Conference on Machine Learning (ICML)"
+pub:            "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2024"
-semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2025"
+# semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 abstract: >-
-  Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
+  In this paper, we aim at generating realistic and reasonable 3D indoor scenes from scene graph. To enrich the priors of the given scene graph inputs, large language model is utilized to aggregate the global-wise features with local node-wise and edge-wise features. With a unified graph encoder, graph features are extracted to guide joint layout-shape generation. Additional regularization is introduced to explicitly constrain the produced 3D layouts. Benchmarked on the SG-FRONT dataset, our method achieves better 3D scene synthesis, especially in terms of scene-level fidelity.
 cover:          /assets/images/covers/cover3.jpg
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+  - Yao Wei
+  - Martin Renqiang Min
+  - George Vosselman
+  - Li Erran Li
+  - Michael Ying Yang
 links:
-  Code: https://github.com/luost26/academic-homepage
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Website: https://sites.google.com/view/planner3d/
 ---
