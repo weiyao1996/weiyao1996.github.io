@@ -3,7 +3,8 @@ secondary_name: ""
 navbar_name: "Y. Wei"
 
 positions:
-- name: Postdoctoral Research Associate, QMUL
+- name: Postdoctoral Research Associate
+- name: Queen Mary University of London
 - name: Mile End Road, London E1 4NS, UK
   logo: /assets/images/badges/QMUL.png  # Logo is optional
 
@@ -28,7 +29,7 @@ short_bio: >-
   </p>
   <p>
     I received my PhD in Computer Science from <a href="https://www.itc.nl/" target="_blank">ITC</a>, <a href="https://www.utwente.nl/" target="_blank">University of Twente</a> in 2025, under the supervision of <a href="https://research.utwente.nl/en/persons/george-vosselman" target="_blank">Prof. George Vosselman</a> and <a href="https://sites.google.com/site/michaelyingyang" target="_blank">Prof. Michael Yang</a>.     
-    Prior to this, I obtained my master’s degree in Photogrammetry and Remote Sensing from <a href="http://en.whu.edu.cn/" target="_blank">Wuhan University</a> in 2021, advised by <a href="http://gpcv.whu.edu.cn/" target="_blank">Prof. Shunping Ji</a>.
+    Prior to this, I obtained my master’s degree from <a href="http://en.whu.edu.cn/" target="_blank">Wuhan University</a> in 2021, advised by <a href="http://gpcv.whu.edu.cn/" target="_blank">Prof. Shunping Ji</a>.
   </p>
   <p>
     My research interests include computer vision and machine learning.
