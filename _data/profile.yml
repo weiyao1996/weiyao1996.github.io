@@ -22,23 +22,21 @@ linkedin: yao-wei-1062471ab
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I received the PhD at the Faculty of Geo-Information Science and Earth Observation (<a href="https://www.itc.nl/" target="_blank">ITC</a>), <a href="https://www.utwente.nl/" target="_blank">University of Twente</a>, 
-    supervised by <a href="https://research.utwente.nl/en/persons/george-vosselman" target="_blank">Prof. George Vosselman</a> and <a href="https://sites.google.com/site/michaelyingyang" target="_blank">Prof. Michael Yang</a>. 
-    During my doctoral study, I worked as an Applied Scientist Intern at <a href="https://aws.amazon.com/" target="_blank">Amazon Web Services (AWS) </a> AI labs, USA. 
-    Before that, I visited <a href="https://iit.it/" target="_blank">Italian Institute of Technology (IIT)</a>, Italy, working with researchers of the Pattern Analysis and Computer Vision (PAVIS) headed by <a href="https://www.iit.it/people/alessio-delbue" target="_blank">Dr. Alessio Del Bue</a>.
-    My doctoral research interests include generative models, multimodal learning, and 3D scene synthesis.
+    I am currently a Postdoctoral Research Associate at <a href="https://www.qmul.ac.uk/" target="_blank">Queen Mary University of London</a>, supervised by <a href="https://www.seresearch.qmul.ac.uk/cmai/people/coh/" target="_blank">Dr. Changjae Oh</a>.
+    Previously, I was a Visiting Scholar at the <a href="https://www.bath.ac.uk/" target="_blank">University of Bath</a> for four months. I completed a four-month internship at <a href="https://aws.amazon.com/">AWS AI</a>. I also visited <a href="https://iit.it/">Italian Institute of Technology (IIT)</a> for six months.
   </p>
   <p>
-    Prior to this, I received the M.S. degree in photogrammetry and remote sensing from <a href="http://en.whu.edu.cn/" target="_blank">Wuhan University</a> 
-    where I worked on road extraction from aerial and satellite images using deep learning techniques (<a href="/_publications/Master_Thesis_Yao_Wei_2021.pdf" target="_blank">Master Thesis</a>), advised by <a href="http://gpcv.whu.edu.cn/" target="_blank">Prof. Shunping Ji</a>.
+    I received my PhD from <a href="https://www.itc.nl/" target="_blank">ITC</a>, <a href="https://www.utwente.nl/" target="_blank">University of Twente</a> in 2025, supervised by <a href="https://research.utwente.nl/en/persons/george-vosselman" target="_blank">Prof. George Vosselman</a> and <a href="https://sites.google.com/site/michaelyingyang" target="_blank">Prof. Michael Yang</a>.     
+    Prior to this, I received the M.S. degree in photogrammetry and remote sensing from <a href="http://en.whu.edu.cn/" target="_blank">Wuhan University</a> where I worked on road extraction from aerial and satellite images using deep learning techniques (<a href="/_publications/Master_Thesis_Yao_Wei_2021.pdf" target="_blank">Master Thesis</a>), advised by <a href="http://gpcv.whu.edu.cn/" target="_blank">Prof. Shunping Ji</a>.
   </p>
   <p>
+    My research interests include generative models, multimodal learning, and 3D scene synthesis.
     If you are interested in my research or have any use cases to collaborate on, feel free to contact me!
   </p>
 
 portrait_url: /assets/images/photos/portrait_ywei.jpg
 portrait_caption: >-
-   Photo near Tower Bridge in London.
+   Photo in London.
 
 education:
 - name: University of Twente
