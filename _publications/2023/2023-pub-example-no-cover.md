@@ -1,22 +1,21 @@
 ---
-title:          "Publication without cover image"
-date:           2023-01-1 00:01:00 +0800
+title:          "A Combination of Convolutional and Graph Neural Networks for Regularized Road Surface Extraction"
+date:           2022-02-10 00:01:00 +0800
 selected:       false
-pub:            "International Conference on Learning Representations (ICLR)"
+pub:            "IEEE Transactions on Geoscience and Remote Sensing (TGRS)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2023"
+pub_date:       "2022"
+semantic_scholar_id: 82171f40f00b8a328c75199fba375301092d2437 # use this to retrieve citation count
 
-abstract: >-
-  When the cover image is not provided, it will generate a random colorful bubble images as the cover image using the <code>bubble_visual_hash.js</code> script.
+abstract: >- 
+The proposed method comprehensively outperforms the recent CNN-based segmentation methods and other regularization methods in the intersection over union (IoU) and smoothness score, and a visual check shows that a majority of the prediction results of the proposed method approach the human delineation level.
 # cover:          /assets/images/covers/cover3.jpg
 authors:
-  - Your Name*#
-  - James Wang*
-  - Some Other Name
-  - John Doe
+  - Jingjing Yan
+  - Shunping Ji
+  - Yao Wei
 links:
-  Code: https://github.com/luost26/bubble-visual-hash
-  Demo: https://luost26.github.io/bubble-visual-hash
+  Paper: https://ieeexplore.ieee.org/document/9714410
 ---
