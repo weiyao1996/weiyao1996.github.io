@@ -42,15 +42,15 @@ portrait_caption: >-
 education:
 - name: University of Twente
   logo: /assets/images/badges/UT-ITC-logo-RGB.png
-  position: Ph.D. in CS
+  position: Ph.D. in Computer Science
   date: 2021 - 2025
 - name: Wuhan University
   logo: /assets/images/badges/WHU.png
-  position: M.S. in ML&RS
+  position: M.S. in Machine Learning & Remote Sensing
   date: 2018 - 2021
 - name: China University of Petroleum
   logo: /assets/images/badges/UPC.png
-  position: B.S. in GIS
+  position: B.S. in Geographic Information Science
   date: 2014 - 2018
 
 experience:
