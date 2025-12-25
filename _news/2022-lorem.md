@@ -1,4 +1,4 @@
 ---
-title: Lorem ipsum sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-date: 2022-01-12 00:01:00 +0800
+title: Obtain the degree of doctor with Thesis entitled "Generative Models for Multimodal 3D Scene Generation"
+date: 2025-09-03 16:45:00 +0800
 ---
