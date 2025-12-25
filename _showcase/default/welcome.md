@@ -5,15 +5,15 @@ date: 2024-01-12 00:01:00 +0800
 ---
 
 <div class="p-4">
-    <h2>Hiya!</h2>
+    <h2>Hiya! Glad you dropped by. </h2>
     <hr />
     <p>
-        Now I live in the UK, a place I dreamed of living in since I was a child. The reason is simple, after all, it’s the closest I can get to Hogwarts, as a huge Harry Potter fan.
+        I was born and raised in northern China. Over the past four years, my journey took me to the Netherlands for my PhD, and now I live in the UK, a place I’ve dreamed of calling home since childhood. For a huge Harry Potter fan like me, it’s the closest I can get to Hogwarts!
     </p>
     <p>
-        I love traveling and photography, always carrying my cameras to capture moments and stories from everyday life. Besides beautiful landscapes, I’m also passionate about food, and I enjoy cooking Chinese dishes to share with family and friends.
+        Traveling and photography are my constant companions. My camera is always at hand, ready to capture the play of light across natural landscapes or the intricate details of historic architecture. From serene countryside vistas to the charm of city streets, every corner tells a story worth preserving. Food is another passion of mine, and I delight in cooking Chinese dishes to share with family and friends, filling both plates and hearts.
     </p>
     <p>
-        I have a puppy named Rosie, a cheerful and energetic West Highland White Terrier. She’s my first dog and is now 8 months old, bringing so much joy to my life. 
+        Life at home is brightened by my playful puppy, Rosie, a cheerful West Highland White Terrier. At eight months old, she brings endless energy and joy, turning ordinary days into little adventures.
     </p>
 </div>
