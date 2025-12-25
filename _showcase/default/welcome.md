@@ -5,7 +5,7 @@ date: 2024-01-12 00:01:00 +0800
 ---
 
 <div class="p-4">
-    <h2>Welcome to Showcase!</h2>
+    <h2>Hiya!</h2>
     <hr />
     <p>
         Now I live in the UK, a place I dreamed of living in since I was a child. The reason is simple, after all, it’s the closest I can get to Hogwarts, as a huge Harry Potter fan.
