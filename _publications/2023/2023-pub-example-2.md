@@ -1,6 +1,6 @@
 ---
 title:          "Simultaneous Road Surface and Centerline Extraction From Large-Scale Remote Sensing Images Using CNN-Based Segmentation and Tracing"
-date:           2020-01-21 00:01:00 +0800
+date:           2020-04-26 00:01:00 +0800
 selected:       false
 pub:            "IEEE Transactions on Geoscience and Remote Sensing (TGRS)"
 pub_date:       "2020"
