@@ -5,7 +5,7 @@ selected:       false
 pub:            "IEEE International Geoscience and Remote Sensing Symposium (IGARSS)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Poster</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Poster</span>'
 pub_date:       "2019"
 semantic_scholar_id: 07245ae53275cc18020995bbbb410f51211195a7  # use this to retrieve citation count
 abstract: >-
