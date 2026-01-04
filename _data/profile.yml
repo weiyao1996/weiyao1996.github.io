@@ -27,12 +27,12 @@ short_bio: >-
     During my PhD, I have interned at <a href="https://aws.amazon.com/">AWS AI</a> and <a href="https://pavis.iit.it/">IIT PAVIS</a>.
   </p>
   <p>
-    I received my PhD in Computer Science from <a href="https://www.itc.nl/" target="_blank">ITC</a>, <a href="https://www.utwente.nl/" target="_blank">University of Twente</a> in 2025, under the supervision of <a href="https://sites.google.com/site/michaelyingyang" target="_blank">Prof. Michael Yang</a> and <a href="https://research.utwente.nl/en/persons/george-vosselman" target="_blank">Prof. George Vosselman</a>.     
+    I received my PhD from <a href="https://www.itc.nl/" target="_blank">ITC</a>, <a href="https://www.utwente.nl/" target="_blank">University of Twente</a> in 2025, under the supervision of <a href="https://sites.google.com/site/michaelyingyang" target="_blank">Prof. Michael Yang</a> and <a href="https://research.utwente.nl/en/persons/george-vosselman" target="_blank">Prof. George Vosselman</a>.     
     My thesis committee members are <a href="https://www.iit.it/people-details/-/people/vittorio-murino" target="_blank">Prof. Vittorio Murino</a>, <a href="https://staff.fnwi.uva.nl/th.gevers/", target="_blank">Prof. Theo Gevers</a>, <a href="https://people.utwente.nl/f.nex", target="_blank">Prof. Francesco Nex</a>, and <a href="https://people.utwente.nl/b.rosic", target="_blank">Prof. Bojana Rosic</a>.
     Prior to this, I obtained my master’s degree from <a href="http://en.whu.edu.cn/" target="_blank">Wuhan University</a> in 2021, advised by <a href="http://gpcv.whu.edu.cn/" target="_blank">Prof. Shunping Ji</a>.
   </p>
   <p>
-    My research interests include computer vision and machine learning.
+    My research interests lie in Artificial Intelligence at the intersection of Computer Vision and Machine Learning.
     If you are interested in my research or potential collaboration opportunities, please feel free to contact me!
   </p>
 
@@ -43,7 +43,7 @@ portrait_caption: >-
 education:
 - name: University of Twente
   logo: /assets/images/badges/UT-ITC-logo-RGB.png
-  position: Ph.D. in Computer Science
+  position: Ph.D. in Generative Artificial Intelligence
   date: 2021 - 2025
 - name: Wuhan University
   logo: /assets/images/badges/WHU.png
