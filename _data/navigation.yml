@@ -7,7 +7,5 @@ pages:
 #   url: /index_layout2
 - name: Publications
   url: /publications
-- name: Services
-  url: /services
 - name: Showcase
   url: /showcase
