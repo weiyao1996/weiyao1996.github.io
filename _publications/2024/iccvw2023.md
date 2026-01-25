@@ -7,7 +7,7 @@ pub:            "IEEE/CVF International Conference on Computer Vision Workshops 
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2023"
-# semantic_scholar_id: 353db89211fc597629d2bc0832993a020692cfd9  # use this to retrieve citation count
+semantic_scholar_id: 8a67e10efa7b5222bf84ff4323b87cdc850febaf  # use this to retrieve citation count
 abstract: >-
   We propose a novel 3D building shape generation method exploiting point cloud diffusion models with image conditioning schemes, which demonstrates flexibility to the input images. By cooperating two conditional diffusion models and introducing a regularization strategy during denoising process, our BuilDiff is able to synthesize building roofs while maintaining the overall structures. We validate our framework on two newly built datasets and extensive experiments show that our method outperforms previous works in terms of building generation quality.
 cover:          /assets/images/covers/iccvw2023.png
