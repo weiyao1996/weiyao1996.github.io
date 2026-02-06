@@ -32,7 +32,8 @@ short_bio: >-
     Prior to this, I obtained my master’s degree from <a href="http://en.whu.edu.cn/" target="_blank">Wuhan University</a> in 2021, advised by <a href="http://gpcv.whu.edu.cn/" target="_blank">Prof. Shunping Ji</a>.
   </p>
   <p>
-    My research interests lie in Artificial Intelligence at the intersection of Computer Vision and Machine Learning.
+    My research interests lie in Artificial Intelligence at the intersection of Computer Vision and Machine Learning. 
+    My publication received a total <a href='https://scholar.google.com/citations?user=NYYC2JwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.
     If you are interested in my research or potential collaboration opportunities, please feel free to contact me!
   </p>
 
