@@ -4,7 +4,7 @@ navbar_name: "Y. Wei"
 
 positions:
 - name: Postdoc
-- name: Queen Mary University of London
+- name: EECS, QMUL
   logo: /assets/images/badges/QMUL.png  # Logo is optional
 
 
@@ -34,7 +34,7 @@ short_bio: >-
   <p>
     I am broadly interested in Artificial Intelligence at the intersection of Computer Vision and Machine Learning. 
     My publication received a total <a href="https://scholar.google.com/citations?user=NYYC2JwAAAAJ"><img src="https://img.shields.io/badge/Citations-409-blue?logo=google-scholar"></a> citations.
-    If you are interested in my research or potential collaboration opportunities, please feel free to contact me! <a href="https://drive.google.com/file/d/1kJkHlt1CTUgDH0H-Km3AOhloOWRMDOUB/view?usp=drive_link" target="_blank">CV</a>.
+    If you are interested in my research or potential collaboration opportunities, please feel free to contact me! Here is my <a href="https://drive.google.com/file/d/1kJkHlt1CTUgDH0H-Km3AOhloOWRMDOUB/view?usp=drive_link" target="_blank">CV</a> :)
   </p>
 
 portrait_url: /assets/images/photos/portrait_ywei.jpg
