@@ -7,7 +7,7 @@ pub:            "IEEE Transactions on Pattern Analysis and Machine Intelligence 
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
-# semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
+semantic_scholar_id: 5e35a795ceb02400d69e4e83161cf4a8c545454f  # use this to retrieve citation count
 abstract: >-
   In this paper, we aim at generating realistic and reasonable 3D indoor scenes from scene graph. To enrich the priors of the given scene graph inputs, large language model is utilized to aggregate the global-wise features with local node-wise and edge-wise features. With a unified graph encoder, graph features are extracted to guide joint layout-shape generation. Additional regularization is introduced to explicitly constrain the produced 3D layouts. Benchmarked on the SG-FRONT dataset, our method achieves better 3D scene synthesis, especially in terms of scene-level fidelity.
 cover:          /assets/images/covers/masterbedroom.gif
