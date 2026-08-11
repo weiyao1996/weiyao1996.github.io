@@ -1,6 +1,6 @@
 ---
 title:          "FlowOVD: Learning Generative Latent Flows for Zero-shot Open-vocabulary Detection"
-date:           2026-07-01 00:01:00 +0800
+date:           2027-02-16 00:01:00 +0800
 selected:       false
 # pub:            ""
 # pub_pre:        "Submitted to "
