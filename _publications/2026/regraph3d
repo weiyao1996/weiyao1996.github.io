@@ -9,7 +9,7 @@ pub_post:       'Under review.'
 pub_date:       "2027"
 # semantic_scholar_id: 5e35a795ceb02400d69e4e83161cf4a8c545454f  # use this to retrieve citation count
 abstract: >-
-  We introduce ReGraph3D, a lightweight framework for language-guided 3D indoor scene rearrangement. Given a natural-language instruction, an LLM converts the requested edit into relational scene graph modifications and identifies the target objects. A lightweight relational graph network then predicts new poses only for these objects, conditioned on semantic, wall-proximity, and floor-plan features, while keeping all others fixed. We further introduce BSSG-FRONT, extending SSR-3DFRONT with relational scene graphs for 14,992 indoor scenes. ReGraph3D achieves over 90% accuracy for directional spatial relations and performs pose generation with only 1.44M parameters in approximately 0.04 seconds per scene.
+  We introduce ReGraph3D, a lightweight framework for language-guided 3D indoor scene rearrangement. We further introduce BSSG-FRONT, extending SSR-3DFRONT with relational scene graphs for 14,992 indoor scenes. ReGraph3D achieves over 90% accuracy for directional spatial relations and performs pose generation with only 1.44M parameters in approximately 0.04 seconds per scene.
 cover:          /assets/images/covers/teaser_.png
 authors:
   - Gregorio Iturralde
